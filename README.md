@@ -1,8 +1,5 @@
 # Basics of SQL
 
-## Before You Start
-Make sure you have the tables from the previous exercise before proceeding (MySQL-DB-and-tables).
-
 ---
 
 ## SECTION 1: SELECT + ORDER BY and LIMIT
