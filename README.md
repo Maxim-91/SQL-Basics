@@ -1,7 +1,7 @@
 # Exercise: Basics of SQL
 
 ## Before You Start
-Make sure you have the tables from the previous exercise before proceeding.
+Make sure you have the tables from the previous exercise before proceeding (MySQL-DB-and-tables).
 
 ---
 
